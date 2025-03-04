@@ -91,12 +91,15 @@ Erfahren Sie, in welchen Bereichen Sie auf körperlicher (physischen) und geisti
 - Stärkt das natürliche Selbstbewusstsein
 
 ## Fragen und Antworten zur traditionellen Thai-Massage
-### Was ist eine traditionelle Thai-Massage?
-
-Die Traditionelle Thai-Massage ist eine Kombination aus Druckmassagen, Muskelstreckungen, Dehnungen, Akupressur und Energiearbeit. Sie wird bekleidet und ohne Öl durchgeführt.
 
 <details>
-<summary>Wie verläuft eine Sitzung der Traditionellen Thai-Massage?</summary>
+  <summary>Was ist eine traditionelle Thai-Massage?</summary>
+Die Traditionelle Thai-Massage ist eine Kombination aus Druckmassagen, Muskelstreckungen, Dehnungen, Akupressur und Energiearbeit. Sie wird bekleidet und ohne Öl durchgeführt.
+</details>
+
+<details>
+  <summary>Wie verläuft eine Sitzung der Traditionellen Thai-Massage?</summary>
+  
 Eine typische Sitzung beginnt mit einer Aufwärmphase und sanften Streichelbewegungen, gefolgt von speziellen Stretchingtechniken und Druckpunktmassagen. Die Energiearbeit ermöglicht es dem Masseur, Blockaden zu lösen und so Gesundheit herzustellen oder zu erhalten.
 </details>
 
