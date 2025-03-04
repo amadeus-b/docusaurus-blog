@@ -101,7 +101,8 @@ Eine typische Sitzung beginnt mit einer Aufwärmphase und sanften Streichelbeweg
 </details>
 
 <details>
-<summary>Welche Vorteile bietet die Traditionelle Thai-Massage?</summary>
+  <summary>Welche Vorteile bietet die Traditionelle Thai-Massage?</summary>
+  
 Die Traditionelle Thai-Massage hat viele Vorteile, einschließlich der Verbesserung der Durchblutung und der Lösung von Verspannungen. Sie kann Stress abbauen, Schmerzen lindern, die Beweglichkeit verbessern und das Immunsystem stärken. Darüber hinaus hat sie auch eine psychologische Wirkung auf den Empfänger, indem sie Stress abbaut und eine tiefe Entspannung ermöglicht.
 </details>
 
