@@ -95,12 +95,15 @@ Erfahren Sie, in welchen Bereichen Sie auf körperlicher (physischen) und geisti
 
 Die Traditionelle Thai-Massage ist eine Kombination aus Druckmassagen, Muskelstreckungen, Dehnungen, Akupressur und Energiearbeit. Sie wird bekleidet und ohne Öl durchgeführt.
 
-### Wie verläuft eine Sitzung der Traditionellen Thai-Massage?
-
+<details>
+<summary>Wie verläuft eine Sitzung der Traditionellen Thai-Massage?</summary>
 Eine typische Sitzung beginnt mit einer Aufwärmphase und sanften Streichelbewegungen, gefolgt von speziellen Stretchingtechniken und Druckpunktmassagen. Die Energiearbeit ermöglicht es dem Masseur, Blockaden zu lösen und so Gesundheit herzustellen oder zu erhalten.
+</details>
 
-Welche Vorteile bietet die Traditionelle Thai-Massage?
-:  Die Traditionelle Thai-Massage hat viele Vorteile, einschließlich der Verbesserung der Durchblutung und der Lösung von Verspannungen. Sie kann Stress abbauen, Schmerzen lindern, die Beweglichkeit verbessern und das Immunsystem stärken. Darüber hinaus hat sie auch eine psychologische Wirkung auf den Empfänger, indem sie Stress abbaut und eine tiefe Entspannung ermöglicht.
+<details>
+<summary>Welche Vorteile bietet die Traditionelle Thai-Massage?</summary>
+Die Traditionelle Thai-Massage hat viele Vorteile, einschließlich der Verbesserung der Durchblutung und der Lösung von Verspannungen. Sie kann Stress abbauen, Schmerzen lindern, die Beweglichkeit verbessern und das Immunsystem stärken. Darüber hinaus hat sie auch eine psychologische Wirkung auf den Empfänger, indem sie Stress abbaut und eine tiefe Entspannung ermöglicht.
+</details>
 
 ### Wie lang dauert eine Sitzung der Traditionellen Thai-Massage?
 
