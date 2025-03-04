@@ -1,7 +1,10 @@
 ---
 slug: thai-massage
 title: Traditionelle Thai-Massage
+description: Die Thai-Massage kann dein Leben verändern! Lasse dich in eine Welt der Tiefenentspannung eintauchen.
 tags: [Thai-Massage]
+image: /img/Traditionelle-Thai-Massage.jpg
+
 ---
 
 
@@ -10,6 +13,9 @@ tags: [Thai-Massage]
 ## Die Kunst der Thai-Massage: Eine ganzheitliche Erfahrung für Körper und Geist
 
 Die Traditionelle Thai-Massage (Nuat Phaen Boran) ist eine alte Heilkunst, die vor über 2500 Jahren entwickelt wurde. Seitdem hat sie sich zu einer beliebten Massagetechnik weltweit verbreitet. Sie kombiniert Elemente der Druckpunktmassage, Akupressur, Dehnungen und Energiearbeit und bietet eine geruhsame natürliche Therapieoption, um Stress abzubauen und Anspannungen zu lindern. In diesem Artikel werden wir uns die Geschichte und Entstehung der Traditionellen Thai-Massage anschauen, sowie die Techniken und Abläufe erklären, mit denen man sich auf die Massage vorbereitet. Wir werden auch die Vorteile betrachten, welche man durch eine solche Behandlung erhält und schließlich beantworten wir häufig gestellte Fragen rund um die Traditionelle Thai-Massage.
+
+<!-- truncate -->
+
 ### Die Ursprünge der Thai-Massage
 Traditionell gekleidete Thailänderinnen
 
