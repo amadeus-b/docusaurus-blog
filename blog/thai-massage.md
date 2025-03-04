@@ -104,9 +104,14 @@ Eine typische Sitzung beginnt mit einer Aufwärmphase und sanften Streichelbeweg
   
 Die Traditionelle Thai-Massage hat viele Vorteile, einschließlich der Verbesserung der Durchblutung und der Lösung von Verspannungen. Sie kann Stress abbauen, Schmerzen lindern, die Beweglichkeit verbessern und das Immunsystem stärken. Darüber hinaus hat sie auch eine psychologische Wirkung auf den Empfänger, indem sie Stress abbaut und eine tiefe Entspannung ermöglicht.
 
-### Wie lang dauert eine Sitzung der Traditionellen Thai-Massage?
+### Wie lange dauert eine Sitzung der Traditionellen Thai-Massage?
 
 Die Dauer einer Sitzung der Thaimassage hängt von Ihren Bedürfnissen und Zielen ab. In der Regel liegt die Dauer zwischen 60 Minuten bis zu 2 Stunden.
+
+:::tip[Wie lange dauert eine Sitzung der Traditionellen Thai-Massage?]
+
+Die Dauer einer Sitzung der Thaimassage hängt von Ihren Bedürfnissen und Zielen ab. In der Regel liegt die Dauer zwischen 60 Minuten bis zu 2 Stunden.
+:::
 
 ### Wann sollte man nicht die Thai-Massage anwenden?
 
