@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 slug: thai-massage
 title: Traditionelle Thai-Massage
 description: Die Thai-Massage kann dein Leben verändern! Lasse dich in eine Welt der Tiefenentspannung eintauchen.
