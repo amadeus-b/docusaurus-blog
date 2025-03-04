@@ -58,22 +58,27 @@ Mit folgenden Ratschlägen, können Sie sich ideal auf Ihre Massage vorbereiten:
 - Handy ausschalten: Wenn es nicht unbedingt sein muss, dann schalten Sie es aus. Sie wollen sich doch nicht während Ihres Kurzurlaubes durch ein vibrieren, oder klingeln aufschrecken lassen
 - Körperhygiene: Duschen Sie am besten vor der Massage. Dies ist nicht nur für Ihr eigenes Wohlbefinden wichtig, sondern zeigt auch Respekt gegenüber dem Masseur.
  
-:::tip[Trinken Sie vor Beginn der Massage ausreichend Wasser] Dadurch können freitgesetzte Schlacke besser aus Ihrem Körper abtransportiert werden. :::
-
+:::tip[Trinken Sie vor Beginn der Massage ausreichend Wasser]
+Dadurch können freitgesetzte Schlacke besser aus Ihrem Körper abtransportiert werden.
+:::
 :::tip[Leichte Mahlzeit]
 Sie sollten vor der Massage kein schweres Essen zu sich nehmen. Im Idealfall liegt ihre letzte Mahlzeit mehr als 1 Stunde zurück.
 :::
 :::tip[Toilettenbesuch]
 Dadurch vermeiden Sie, dass Sie die Massage unterbrechen müssen. Manche Masseure beziehen auch den Bauchbereich mit ein. Wenn hier innerlicher Druck herscht, ist diese Behandlung einerseits nicht sehr effektiv, andererseits fühlt es sich auch sehr unangenehm an.
 :::
-
 :::tip[Kommunikation mit dem Masseur]
 Sprechen Sie über Ihren Gesundheitszustand und auch Ihre Vorlieben bzw. Problemstellen. So kann die Massage perfekt auf Sie angepasst werden.
 :::
-
-- Bequeme Kleidung: Die meisten Studios stellen Ihnen entsprechende Kleidung zur Verfügung.. Sie können jedoch auch Ihre eigene Kleidung verwenden. Achten Sie auf jedenfall darauf, dass diese locker sitzt.
-- Handy ausschalten: Wenn es nicht unbedingt sein muss, dann schalten Sie es aus. Sie wollen sich doch nicht während Ihres Kurzurlaubes durch ein vibrieren, oder klingeln aufschrecken lassen
-- Körperhygiene: Duschen Sie am besten vor der Massage. Dies ist nicht nur für Ihr eigenes Wohlbefinden wichtig, sondern zeigt auch Respekt gegenüber dem Masseur.
+:::tip[Bequeme Kleidung]
+Die meisten Studios stellen Ihnen entsprechende Kleidung zur Verfügung.. Sie können jedoch auch Ihre eigene Kleidung verwenden. Achten Sie auf jedenfall darauf, dass diese locker sitzt.
+:::
+:::tip[Handy ausschalten]
+Wenn es nicht unbedingt sein muss, dann schalten Sie es aus. Sie wollen sich doch nicht während Ihres Kurzurlaubes durch ein vibrieren, oder klingeln aufschrecken lassen
+:::
+:::danger[Körperhygiene]
+Duschen Sie am besten vor der Massage. Dies ist nicht nur für Ihr eigenes Wohlbefinden wichtig, sondern zeigt auch Respekt gegenüber dem Masseur.
+:::
 
 ## Darum sollten Sie die klassiche Thai-Massage ausprobieren
 
