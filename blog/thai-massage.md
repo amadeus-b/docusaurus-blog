@@ -92,23 +92,17 @@ Erfahren Sie, in welchen Bereichen Sie auf körperlicher (physischen) und geisti
 
 ## Fragen und Antworten zur traditionellen Thai-Massage
 
-<details>
-  <summary>### Was ist eine traditionelle Thai-Massage?</summary>
+### Was ist eine traditionelle Thai-Massage?
 
 Die Traditionelle Thai-Massage ist eine Kombination aus Druckmassagen, Muskelstreckungen, Dehnungen, Akupressur und Energiearbeit. Sie wird bekleidet und ohne Öl durchgeführt.
-</details>
 
-<details>
-  <summary>Wie verläuft eine Sitzung der Traditionellen Thai-Massage?</summary>
+### Wie verläuft eine Sitzung der Traditionellen Thai-Massage?
   
 Eine typische Sitzung beginnt mit einer Aufwärmphase und sanften Streichelbewegungen, gefolgt von speziellen Stretchingtechniken und Druckpunktmassagen. Die Energiearbeit ermöglicht es dem Masseur, Blockaden zu lösen und so Gesundheit herzustellen oder zu erhalten.
-</details>
 
-<details>
-  <summary>Welche Vorteile bietet die Traditionelle Thai-Massage?</summary>
+### Welche Vorteile bietet die Traditionelle Thai-Massage?
   
 Die Traditionelle Thai-Massage hat viele Vorteile, einschließlich der Verbesserung der Durchblutung und der Lösung von Verspannungen. Sie kann Stress abbauen, Schmerzen lindern, die Beweglichkeit verbessern und das Immunsystem stärken. Darüber hinaus hat sie auch eine psychologische Wirkung auf den Empfänger, indem sie Stress abbaut und eine tiefe Entspannung ermöglicht.
-</details>
 
 ### Wie lang dauert eine Sitzung der Traditionellen Thai-Massage?
 
@@ -118,15 +112,15 @@ Die Dauer einer Sitzung der Thaimassage hängt von Ihren Bedürfnissen und Ziele
 
 Es gibt bestimmte medizinische Bedingungen bzw. Erkrankungen, bei denen keine Thai-Massage empfohlen wird oder sogar gefährlich sein kann. Bei gesundheitlichen Beschwerden wird empfohlen, vor Beginn mit Ihrem Arzt zu sprechen. Beispiele können sein:
 
-– Blutgerinnsel
-– Chronischen Erkrankungen
-– Herzkrankheiten
-– Krampfadern
-– Hauterkrankungen
-– Immunschwäche
-– aktute Infektion
-– Thrombose oder Rheuma
-– Fortgeschrittene Osteoporose
+- Blutgerinnsel
+- Chronischen Erkrankungen
+- Herzkrankheiten
+- Krampfadern
+- Hauterkrankungen
+- Immunschwäche
+- aktute Infektion
+- Thrombose oder Rheuma
+- Fortgeschrittene Osteoporose
 
 ## Fazit
 
