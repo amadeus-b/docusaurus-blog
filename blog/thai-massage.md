@@ -17,7 +17,6 @@ Die Traditionelle Thai-Massage (Nuat Phaen Boran) ist eine alte Heilkunst, die v
 <!-- truncate -->
 
 ### Die Ursprünge der Thai-Massage
-Traditionell gekleidete Thailänderinnen
 
 Die Thai-Massage gilt als alte Heilkunst. Der Ursprung entstand vor über 2500 Jahren in Indien. Damals war sie ein Teil der Ayurveda-Medizin, die bis heute in Indien praktiziert wird. Als Erfinder dieser Massage wird Jivaka Kumar Bhacchal, besser bekannt als Dr. Shivago, benannt. Er sei persönlicher Arzt von Buddha und König Bimbisara gewesen. Es wird angenommen, dass die Lehre von Dr. Shivago gleichzeitig mit dem Buddhismus nach Thailand kam und so die Traditionelle Thai-Massage entstand.
 
@@ -100,9 +99,8 @@ Die Traditionelle Thai-Massage ist eine Kombination aus Druckmassagen, Muskelstr
 
 Eine typische Sitzung beginnt mit einer Aufwärmphase und sanften Streichelbewegungen, gefolgt von speziellen Stretchingtechniken und Druckpunktmassagen. Die Energiearbeit ermöglicht es dem Masseur, Blockaden zu lösen und so Gesundheit herzustellen oder zu erhalten.
 
-### Welche Vorteile bietet die Traditionelle Thai-Massage?
-
-Die Traditionelle Thai-Massage hat viele Vorteile, einschließlich der Verbesserung der Durchblutung und der Lösung von Verspannungen. Sie kann Stress abbauen, Schmerzen lindern, die Beweglichkeit verbessern und das Immunsystem stärken. Darüber hinaus hat sie auch eine psychologische Wirkung auf den Empfänger, indem sie Stress abbaut und eine tiefe Entspannung ermöglicht.
+Welche Vorteile bietet die Traditionelle Thai-Massage?
+:  Die Traditionelle Thai-Massage hat viele Vorteile, einschließlich der Verbesserung der Durchblutung und der Lösung von Verspannungen. Sie kann Stress abbauen, Schmerzen lindern, die Beweglichkeit verbessern und das Immunsystem stärken. Darüber hinaus hat sie auch eine psychologische Wirkung auf den Empfänger, indem sie Stress abbaut und eine tiefe Entspannung ermöglicht.
 
 ### Wie lang dauert eine Sitzung der Traditionellen Thai-Massage?
 
