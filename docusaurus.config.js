@@ -41,6 +41,9 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        googleTagManager: {
+          containerId: 'GTM-W8FH4G96'
+        }
         docs: {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
