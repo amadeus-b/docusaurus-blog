@@ -40,7 +40,7 @@ Es gibt auch viele Thailänderinnen, die ohne formelle Ausbildung nach Deutschla
 
 :::info
 Seriosität zeigt sich durch gepflegte Räume, klare Abgrenzung von Erotik, Zertifikate und professionelle Darstellung der Masseurinnen. 
-Zertifikate können manipuliert sein, talentierte Masseurinnen haben oft keine formelle Ausbildung, und schlichte Studios können trotzdem Qualität bieten.
+Zertifikate können manipuliert sein. Masseurinnen ohne offizielle Zertifikate können dennoch wahre Massage Perlen sein.
 :::
 
 ## 4. Preisgestaltung verstehen
@@ -60,7 +60,7 @@ Dennoch ist ein hoher Preis keine Garantie für Qualität. Manche Studios mit ex
 
 :::info
 Höhere Preise kann ein Rückschluss auf höhere Löhne und dadurch bessere Qualifikaiton hinweisen.\
-Allerdings könnte es auch sein, dass teure Studios investieren manchmal mehr in Einrichtung als Fachpersonal, während günstige Anbieter überraschend kompetent sein können.
+Allerdings könnte es auch sein, dass teure Studios manchmal mehr in Einrichtung als in Fachpersonal investieren, während günstige Anbieter überraschend kompetent sein können.
 :::
 
 ## 5. Online-Recherche nutzen
