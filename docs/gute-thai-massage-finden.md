@@ -4,7 +4,7 @@ slug: gute-thai-massage-erkennen
 title: 5 Tipps um die Beste Thai-Massage zu finden
 description: Lernen Sie echte Qualität zu erkennen. Unser Leitfaden bietet Ihnen eine Übersicht und wertvolle Tipps, um die Beste Thai Massage für sich zu finden.
 tags: [Thai-Massage]
-image: /img/vorbereitung-thai-massage.webp
+image: /img/thai-massage-finden.webp
 
 ---
 
