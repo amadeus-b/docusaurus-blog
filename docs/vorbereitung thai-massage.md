@@ -4,13 +4,13 @@ slug: thai-massage-vorbereitung
 title: Vorbereitung zur Thai-Massage
 description: Beachte folgende Tipps vor dem Besuch einer Thai-Massage
 tags: [Thai-Massage]
-image: /img/Traditionelle-Thai-Massage.jpg
+image: /img/vorbereitung-thai-massage.webp
 
 ---
 
 # So bereitest du dich auf deine erste Thai Massage vor
 
-![Person receiving a Thai massage head treatment](https://thai-massage.de/wp-content/uploads/2023/11/Vorbereitung-Thai-Massage-scaled.jpg)
+![Dusche vor der Massage](/img/vorbereitung-thai-massage.webp)
 
 Wie bereitet man sich auf die erste Thai-Massage vor? Eine Thai-Massage ist eine wunderbare Möglichkeit, sich zu entspannen und dem Stress des Alltags zu entfliehen. Aber es gibt ein paar Dinge, die Du beachten solltest, um das Beste aus Deiner Massageerfahrung herauszuholen.
 
@@ -44,7 +44,7 @@ Ein oft übersehener, aber wesentlicher Aspekt der Vorbereitung auf eine Thai-Ma
 
 ### 6. Handy ausschalten oder stumm schalten
 
-![Handy ausschalten](https://thai-massage.de/wp-content/uploads/2023/11/Kein-Telefon-2048x1496.jpg)
+![Handy ausschalten](/img/smartphone-ausschalten.webp)
 
 Ein weiterer wichtiger Punkt in der Vorbereitung auf Deine Thai-Massage ist, daran zu denken, Dein Handy auszuschalten oder zumindest auf stumm zu schalten. Dies ist aus mehreren Gründen wesentlich:
 
