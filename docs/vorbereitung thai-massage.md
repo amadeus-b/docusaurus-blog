@@ -10,7 +10,7 @@ image: /img/Traditionelle-Thai-Massage.jpg
 
 # How to Prepare for Your First Thai Massage
 
-![Person receiving a Thai massage head treatment](https://sjc.microlink.io/3Sp28qHzCt6H6TPn4qVRinnf_p91ToR5Mal85CER0_pAXUq02RB9sYuzRhu5LBCOcsFQ5WHEVM4hXVmEZLL4Aw.jpeg)
+![Person receiving a Thai massage head treatment](https://thai-massage.de/wp-content/uploads/2023/11/Vorbereitung-Thai-Massage-scaled.jpg)
 
 ## So bereitest du dich auf deine erste Thai Massage vor
 
@@ -21,8 +21,6 @@ How do you prepare for your first Thai massage? A Thai massage is a wonderful op
 It's important that you feel comfortable and relaxed during the massage. Don't hesitate to communicate your preferences to the masseuse or masseur – whether it's regarding the pressure of the massage, specific body areas that need attention, or the room temperature. Personal requests such as your own music or massage oil are usually welcome. Communication is the key to a satisfying massage experience.
 
 ### 2. Eating Before the Massage
-
-![Eating before Thai Massage](https://sjc.microlink.io/3Sp28qHzCt6H6TPn4qVRinnf_p91ToR5Mal85CER0_pAXUq02RB9sYuzRhu5LBCOcsFQ5WHEVM4hXVmEZLL4Aw.jpeg)
 
 It's advisable to get a massage on an empty stomach to avoid discomfort. Plan your meals so that you don't eat anything for at least an hour before the massage. This helps you to fully relax during the massage.
 
@@ -44,7 +42,7 @@ An often overlooked but essential aspect of preparing for a Thai massage is goin
 
 ### 6. Turn Off or Silence Your Phone
 
-![Turn off phone during massage](https://sjc.microlink.io/3Sp28qHzCt6H6TPn4qVRinnf_p91ToR5Mal85CER0_pAXUq02RB9sYuzRhu5LBCOcsFQ5WHEVM4hXVmEZLL4Aw.jpeg)
+![Turn off phone during massage](https://thai-massage.de/wp-content/uploads/2023/11/Kein-Telefon-2048x1496.jpg)
 
 Another important point in preparing for your Thai massage is to remember to turn off your phone or at least put it on silent. This is essential for several reasons:
 
@@ -66,7 +64,7 @@ Overall, paying attention to body hygiene before a massage is a sign of respect 
 
 ### 8. Consider the Intensity of Traditional Thai Massage
 
-![Masseur performing traditional Thai Massage](https://sjc.microlink.io/3Sp28qHzCt6H6TPn4qVRinnf_p91ToR5Mal85CER0_pAXUq02RB9sYuzRhu5LBCOcsFQ5WHEVM4hXVmEZLL4Aw.jpeg)
+![Masseur performing traditional Thai Massage](https://thai-massage.de/wp-content/uploads/2023/09/Traditionelle-Massage-1536x1024.jpg)
 
 An additional important aspect to consider when preparing for your first Thai massage is the intensity of traditional Thai massage. This form of massage is often physically demanding and involves deep pressure techniques, stretches, and joint mobilizations that can be surprisingly intense for people who have never experienced such a massage.
 
