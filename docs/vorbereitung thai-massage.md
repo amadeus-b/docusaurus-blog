@@ -26,10 +26,6 @@ Es ist ratsam, sich auf nüchternen Magen massieren zu lassen, um Unbehagen zu v
 
 Die Wahl der Kleidung hängt von der Art der Massage ab. Für eine Ganzkörpermassage ist es üblich, sich bis auf die Unterwäsche zu entkleiden. Bei einer Teilmassage werden nur die relevanten Körperteile freigelegt. Für eine traditionelle Thai-Massage ist bequeme Kleidung zu empfehlen, die oft im Massagestudio bereitgestellt wird. Denke auch daran, Schmuck und Piercings vorher abzulegen.
 
-## 4. Relaxation as the Key
-
-Many people find it difficult to relax at first, especially before their first massage. But this is exactly where the key to an effective Thai massage lies. Allow yourself to let go and fully immerse yourself in the experience.
-
 ## Entspannung als Schlüssel
 
 Viele Menschen finden es zunächst schwer, sich zu entspannen, besonders vor ihrer ersten Massage. Aber genau hier liegt der Schlüssel zu einer effektiven Thai-Massage. Erlaube Dir selbst, loszulassen und Dich voll und ganz auf die Erfahrung einzulassen.
@@ -42,11 +38,11 @@ Ein oft übersehener, aber wesentlicher Aspekt der Vorbereitung auf eine Thai-Ma
 - **Effektivität der Massage**: Thai-Massagen beinhalten oft Druck auf den Bauch und die unteren Rückenbereiche. Ein leerer Blasen- und Darmbereich ermöglicht es der Masseurin oder dem Masseur, diese Techniken effektiver und komfortabler anzuwenden, ohne Unbehagen zu verursachen.
 - **Dauer der Sitzungn**: Thai-Massagen können je nach gewählter Sitzungsdauer eine beträchtliche Zeit in Anspruch nehmen. Ein Toilettenbesuch vorher vermeidet Unterbrechungen und stellt sicher, dass Du die gesamte Sitzung ungestört genießen kannst.
 
-### 6. Handy ausschalten oder stumm schalten
-
-![Handy ausschalten](/img/smartphone-ausschalten.webp)
+## Handy ausschalten oder stumm schalten
 
 Ein weiterer wichtiger Punkt in der Vorbereitung auf Deine Thai-Massage ist, daran zu denken, Dein Handy auszuschalten oder zumindest auf stumm zu schalten. Dies ist aus mehreren Gründen wesentlich:
+
+![Frau schaltet Handy vor Massage aus](/img/smartphone-ausschalten.webp "Handy ausschalten")
 
 - **Ununterbrochene Entspannung**: Ein klingelndes oder vibrierendes Handy kann eine erhebliche Ablenkung darstellen und Deine Entspannung stören. Um die vollständige Wirkung der Massage zu erfahren, ist es ideal, wenn Du Dich vollständig auf Deine Entspannung und das Wohlgefühl konzentrieren kannst.
 - **Respekt gegenüber der Masseurin oder dem Masseur**: Das Ausschalten Deines Handys zeigt Respekt und Wertschätzung für die Arbeit der Masseurin oder des Masseurs. Es ermöglicht ihnen, sich ohne Unterbrechungen auf die Bereitstellung einer qualitativ hochwertigen Massage zu konzentrieren.
