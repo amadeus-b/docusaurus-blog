@@ -46,9 +46,9 @@ Allerdings ziehen einige einen gegenteiligen Rückschluss, da in Thailand, vor a
 In Deutschland sind Happy-Endings allerdings sehr selten verbreitet. 
 
 ## 3. Ausbildungsnachweise und Zertifikate
-Ein wichtiges Qualitätsmerkmal sind ausgehängte Zertifikate seriöser Massageschulen. Achten Sie besonders auf Zertifikate von anerkannten Schulen wie "The Union of Thai Traditional Medicine Society" oder "Watpo Thai Traditional Medical School" in Thailand. Bedenken Sie jedoch, dass es verschiedene Ausbildungsstufen gibt und nicht jedes Zertifikat gleich aussagekräftig ist.
-Zertifkate sind aber nicht alles
-Thailand bietet eine Vielzahl von Schulen an, welche sich einerseits in Ihrer Qualität als auch Seriösität unterscheiden. Intern ist es bekannt, dass es Schulen (bzw. einzelne Mitarbeiter) gibt, die Zertifkate nur gegen Bezahlung ausstellen. Auch die Prüfverfahren sind nicht einheitlich. Nur weil man die Schule für eine bestimmte Stundenanzahl besucht hat, muss das nicht zwangsläufig bedeuten, dass man perfekt qualifiziert ist.
+Ein wichtiges Qualitätsmerkmal sind ausgehängte Zertifikate seriöser Massageschulen. Achten Sie besonders auf Zertifikate von anerkannten Schulen wie "The Union of Thai Traditional Medicine Society" oder "Watpo Thai Traditional Medical School" in Thailand. Bedenken Sie jedoch, dass es verschiedene Ausbildungsstufen gibt und nicht jedes Zertifikat gleich aussagekräftig ist.  
+Zertifkate sind aber nicht alles  
+Thailand bietet eine Vielzahl von Schulen an, welche sich einerseits in Ihrer Qualität als auch Seriösität unterscheiden. Intern ist es bekannt, dass es Schulen (bzw. einzelne Mitarbeiter) gibt, die Zertifkate nur gegen Bezahlung ausstellen. Auch die Prüfverfahren sind nicht einheitlich. Nur weil man die Schule für eine bestimmte Stundenanzahl besucht hat, muss das nicht zwangsläufig bedeuten, dass man perfekt qualifiziert ist.  
 Es gibt auch viele Thailänderinnen, die ohne formelle Ausbildung nach Deutschland gezogen sind und das Massage-Handwerk erst hier durch private Unterrichte durch Freundinnen erlernt haben. Auch hier gibt es eine große Anzahl von talentierten Masseurinnen, die durch Erfahrung und Übung hervorragende Fähigkeiten entwickelt haben.
 
 :::info[Zertifikate sind ein Qualitätsmerkmal]
@@ -80,8 +80,8 @@ Dennoch ist ein hoher Preis keine Garantie für Qualität. Manche Studios mit ex
 Eine gründliche Online-Recherche kann Ihnen wertvolle Hinweise auf die Qualität eines Thai-Massage-Studios geben. Lesen Sie Bewertungen auf verschiedenen Plattformen wie Google, oder thai-massage.de. Achten Sie dabei besonders auf wiederkehrende Kommentare – sowohl positive als auch negative. Werden bestimmte Masseurinnen häufig namentlich gelobt? Gibt es Hinweise auf besonders gute Behandlungen bei spezifischen Beschwerden?
 
 ### Die Online-Präsenz des Studios verstehen
-Viele authentische und hervorragende Thai-Massage Studios werden von Fachleuten geführt, die ihr Handwerk perfekt beherrschen, aber keine Experten in Webdesign oder Marketing sind. Ein schlichter oder einfacher Webauftritt bedeutet keineswegs mangelnde Qualität der Massage! Häufig setzen diese Studios ihre begrenzten Ressourcen lieber für die Weiterbildung ihrer Masseurinnen ein als für teure Marketing-Kampagnen oder Webseiten. 
-Genau hier setzt übrigens unsere Plattform thai-massage.de an: Wir bieten Studios die Möglichkeit, sich professionell zu präsentieren, ohne selbst technisches Know-how besitzen oder Geld zu investieren.Studioinhaber können ihren eigenen Eintrag übernehmen, mit relevanten Informationen ergänzen und selbstständig aktualisieren – alles ohne zusätzliche Kosten. 
+Viele authentische und hervorragende Thai-Massage Studios werden von Fachleuten geführt, die ihr Handwerk perfekt beherrschen, aber keine Experten in Webdesign oder Marketing sind. Ein schlichter oder einfacher Webauftritt bedeutet keineswegs mangelnde Qualität der Massage! Häufig setzen diese Studios ihre begrenzten Ressourcen lieber für die Weiterbildung ihrer Masseurinnen ein als für teure Marketing-Kampagnen oder Webseiten.  
+Genau hier setzt übrigens unsere Plattform thai-massage.de an: Wir bieten Studios die Möglichkeit, sich professionell zu präsentieren, ohne selbst technisches Know-how besitzen oder Geld zu investieren.Studioinhaber können ihren eigenen Eintrag übernehmen, mit relevanten Informationen ergänzen und selbstständig aktualisieren – alles ohne zusätzliche Kosten.  
 Achten Sie dennoch auf Transparenz bei den angebotenen Leistungen und Preisen. Werden die Qualifikationen der Masseurinnen erwähnt? Gibt es Informationen zur traditionellen Thai-Massage und ihren verschiedenen Techniken? Auch wenn die Darstellung schlicht ist – die wesentlichen Informationen sollten vorhanden sein.
 
 ### Vergleichen Sie mehrere Studios
@@ -89,10 +89,10 @@ Nehmen Sie sich die Zeit, mehrere Studios in Ihrer Nähe zu vergleichen. Erstell
 
 
 ## Fazit
-Es ist wichtig dass Sie sich in dem Ambiente des Massage-Studios wohlfühlen. Jeder Mensch hat hier seinen eigenen Maßstäbe. 
-Legen Sie viel Wert auf Hygiene? 👉 Bringen Sie Ihr eigene Handtuch mit! 
-Finden Sie keine Zertifikate von Masseurinnen 👉 Trotzdem könnten Sie eine wunderbare Traditionelle Thai-Massage erfahren. 
-Reagiert Ihre Haut sensibel? 👉 Bringen Sie Ihr eigenes Massageöl mit. In den meisten Fällen stellt das kein Problem dar. Klären Sie es zuvor sicherheitshalber ab. 
+Es ist wichtig dass Sie sich in dem Ambiente des Massage-Studios wohlfühlen. Jeder Mensch hat hier seinen eigenen Maßstäbe.  
+Legen Sie viel Wert auf Hygiene? 👉 Bringen Sie Ihr eigene Handtuch mit!  
+Finden Sie keine Zertifikate von Masseurinnen 👉 Trotzdem könnten Sie eine wunderbare Traditionelle Thai-Massage erfahren.  
+Reagiert Ihre Haut sensibel? 👉 Bringen Sie Ihr eigenes Massageöl mit. In den meisten Fällen stellt das kein Problem dar. Klären Sie es zuvor sicherheitshalber ab.  
 Scheint der Preis sehr niedrig? 👉 Das muss nicht zwangsläufig bedeuten, dass die Qualität der Massage schlecht ist.
 
 
