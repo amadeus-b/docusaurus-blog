@@ -28,8 +28,7 @@ Das Verzwickete daran: Jeder Kunde hat eigene Maßstäbe, was er als angenehm em
 <p>Letztlich hängt die Qualität vorrangig von der einzelnen Fachkraft ab.</p>
 :::
 
-## 1. Auf Seriosität und Qualität achten
-### Das Erscheinungsbild des Studios
+## 1. Das Erscheinungsbild des Studios
 Bei der Suche nach einem guten Thai-Massage-Studio in Deutschland sollten Sie auf äußere Merkmale achten, die für Seriosität und Qualität sprechen. Ein professionelles Studio erkennen Sie bereits am Erscheinungsbild: Die Räumlichkeiten sollten sauber, gepflegt und einladend sein.
 
 ## 2. Distanzierung von Erotik-Massagen
@@ -48,9 +47,8 @@ Zertifkate sind aber nicht alles
 Thailand bietet eine Vielzahl von Schulen an, welche sich einerseits in Ihrer Qualität als auch Seriösität unterscheiden. Intern ist es bekannt, dass es Schulen (bzw. einzelne Mitarbeiter) gibt, die Zertifkate nur gegen Bezahlung ausstellen. Auch die Prüfverfahren sind nicht einheitlich. Nur weil man die Schule für eine bestimmte Stundenanzahl besucht hat, muss das nicht zwangsläufig bedeuten, dass man perfekt qualifiziert ist.
 Es gibt auch viele Thailänderinnen, die ohne formelle Ausbildung nach Deutschland gezogen sind und das Massage-Handwerk erst hier durch private Unterrichte durch Freundinnen erlernt haben. Auch hier gibt es eine große Anzahl von talentierten Masseurinnen, die durch Erfahrung und Übung hervorragende Fähigkeiten entwickelt haben.
 
-:::info
-Seriosität zeigt sich durch gepflegte Räume, klare Abgrenzung von Erotik, Zertifikate und professionelle Darstellung der Masseurinnen. 
-Zertifikate können manipuliert sein. Masseurinnen ohne offizielle Zertifikate können dennoch wahre Massage Perlen sein.
+:::info[Zertifikate sind ein Qualitätsmerkmal]
+Allerdings darf man sich nicht nur darauf verlassen. Ein Zertifikat sagt oft nichts über das Talent und Motivation aus. Auch Masseurinnen ohne offizielle Zertifikate können wahre Massage Perlen sein.
 :::
 
 ## 4. Preisgestaltung verstehen
