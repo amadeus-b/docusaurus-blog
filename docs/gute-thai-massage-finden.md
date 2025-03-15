@@ -27,8 +27,10 @@ Bei der Suche nach einem guten Thai-Massage-Studio in Deutschland sollten Sie au
 
 ## 2. Distanzierung von Erotik-Massagen
 Achten Sie darauf, dass das Studio klar kommuniziert, dass es sich um traditionelle Massagen handelt. Seriöse Einrichtungen grenzen sich deutlich von erotischen Dienstleistungen ab. 
-Bilder mit kurzen Röcken oder tiefen Ausschnitten sind KEIN Qualitätsmerkmal für eine hochwertige Thai-Massage. 
-![Frustrierte Frau wegen anstößigen Anfragen](/img/happy-end.webp[Kein Happy-End])
+Bilder mit kurzen Röcken oder tiefen Ausschnitten sind KEIN Qualitätsmerkmal für eine hochwertige Thai-Massage.
+
+![Frustrierte Frau wegen anstößigen Anfragen](/img/happy-end.webp "Kein Happy-End")
+
 Leider wird die traditionelle Thai Massage häufig mit einem „Happy End“ in Verbindung gebracht. Grundsätzlich sollte festgehalten werden, dass diese traditionelle Massage keinerlei Berührungspunkte zu Erotik-Angeboten hat. 
 Allerdings ziehen einige einen gegenteiligen Rückschluss, da in Thailand, vor allem in Touristengebieten, aufgrund von einem Überangebot und der finanziellen Not einiger Damen dieser Service durchaus angeboten wird. 
 In Deutschland sind Happy-Endings allerdings sehr selten verbreitet. 
