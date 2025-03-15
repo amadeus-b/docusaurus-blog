@@ -78,7 +78,7 @@ Nehmen Sie sich die Zeit, mehrere Studios in Ihrer Nähe zu vergleichen. Erstell
 
 
 ## Fazit
-Es ist wichtig dass Sie sich in dem Ambiente des Massage-Studios wohlfühlen. Jeder Mensch hat hier seinen eigenen Maßstäbe.
+Es ist wichtig dass Sie sich in dem Ambiente des Massage-Studios wohlfühlen. Jeder Mensch hat hier seinen eigenen Maßstäbe.<br>
 Legen Sie viel Wert auf Hygiene? Bringen Sie Ihr eigene Handtuch mit!
 Reagiert Ihre Haut sensibel? Bringen Sie Ihr eigenes Massageöl mit. In den meisten Fällen stellt das kein Problem dar. Klären Sie es zuvor sicherheitshalber ab.
 Scheint der Preis sehr niedrig? Das muss nicht zwangsläufig bedeuten, dass die Qualität der Massage schlecht ist.
