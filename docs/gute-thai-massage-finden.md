@@ -84,12 +84,13 @@ Reagiert Ihre Haut sensibel? Bringen Sie Ihr eigenes Massageöl mit. In den meis
 Scheint der Preis sehr niedrig? Das muss nicht zwangsläufig bedeuten, dass die Qualität der Massage schlecht ist.
 
 
-::tip[Unser Tipp]
+:::tip[Unser Tipp]
 <p>
 Wenn Sie sich unsicher bei der Auswahl des richtigen Studios sind, fangen Sie doch erstmal mit einer Massage von 30 Minuten an.
 Dies bietet Ihnen die Möglichkeit zu geringen Kosten eine breite Auswahl an Mitarbeitern und Studios zu testen.
 Zwar wird eine Traditionelle Thai-Massage meist erst ab einer Dauer von 1 Stunde angeboten. Aber bereits mit einer 30-minütigen Rücken Massage können Sie einzelne Studios und deren Masseurinnen bereits gut kennenlernen.
-
+</p>
+<p>
 Die besten Erfahrungen machen Sie oft, wenn Sie eine langfristige Beziehung zu einem Studio und einer bestimmten Masseurin aufbauen. Mit der Zeit lernt die Masseurin Ihren Körper besser kennen und kann die Behandlung noch gezielter auf Ihre Bedürfnisse abstimmen. Zudem entwickelt sich oft ein Vertrauensverhältnis, das die gesamte Massage-Erfahrung bereichert. Letztlich zählt, dass Sie sich in der Umgebung wohlfühlen und eine individuelle Balance zwischen Qualität, Preis und persönlichen Anforderungen finden.
 </p>
 :::
