@@ -44,6 +44,8 @@ Typischerweise findet die traditionelle Thai Massage auf einer Matte am Boden st
 
 Sie sind neugierig geworden? Erfahren Sie, wie Sie sich optimal auf Ihre erste Thai-Massage vorbereiten: [So bereitest du dich auf deine erste Thai Massage vor](https://coruscating-kleicha-ad70a8.netlify.app/docs/thai-massage-vorbereitung).
 
+![Historische Zeichnung mit energetischen Punkten](/img/geschichte-thai.webp "Technik der Thai-Massage")
+
 ### Die vier Säulen der Thai-Massage  
 
 #### Akupressur 👐
@@ -111,7 +113,7 @@ Die Thai-Massage gilt als alte Heilkunst. Der Ursprung entstand vor über 2500 J
 
 Heutzutage ist die Thai-Massage ein fester Bestandteil der traditionellen thailändischen Medizin und eine beliebte Form der Massage weltweit. 🌏  
 
-![Geschichte der Thai-Massage: Traditionelle Heilkunst aus Thailand](/img/geschichte-thai.webp "Entdecken Sie die Geschichte der Thai-Massage")
+![Geschichte der Thai-Massage: Traditionelle Heilkunst aus Thailand](/img/geschichte.webp "Entdecken Sie die Geschichte der Thai-Massage")
 
 ---
 
