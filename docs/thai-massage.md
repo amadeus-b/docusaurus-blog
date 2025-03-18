@@ -48,16 +48,16 @@ Sie sind neugierig geworden? Erfahren Sie, wie Sie sich optimal auf Ihre erste T
 
 ### Die vier Säulen der Thai-Massage  
 
-#### Akupressur:
+#### Akupressur
 Bei der Akupressur setzt der Thai-Massage-Therapeut gezielten Druck mit Fingern, Handflächen, Ellbogen oder Knien auf bestimmte Körperpunkte ein – ähnlich wie in der Akupunktur, aber ohne Nadeln. Diese Punkte liegen auf den Energielinien (Sen), die laut traditioneller Thai-Medizin den gesamten Körper durchziehen. Durch die Stimulation wird blockierte Energie gelöst und der Körper angeregt, seine eigenen Heilungskräfte zu aktivieren.  
 
-#### Dehnungen:
+#### Dehnungen
 Passive, yogagleiche Dehnungen sind ein Herzstück der Thai-Massage. Der Thai-Massage-Therapeut führt den Körper des Empfängers in sanfte, aber wirkungsvolle Positionen, um Muskeln zu lockern, die Flexibilität zu steigern und Verspannungen zu durchbrechen. Gleichzeitig wird die Durchblutung angeregt – und damit auch der Energiefluss, der für ganzheitliche Balance sorgt.  
 
-#### Gelenkmobilisation:
+#### Gelenkmobilisation
 Hier stehen die Gelenke im Fokus: Durch sanfte Drehungen, Beugungen und Streckungen verbessert der Thai-Massage-Therapeut ihre Beweglichkeit und löst Steifheit. Diese Mobilisation hält die Gelenke geschmeidig, beugt Beschwerden vor und kann sogar Schmerzen im Bewegungsapparat lindern.  
 
-#### Energiearbeit:
+#### Energiearbeit
 Alles dreht sich um den Fluss der Lebensenergie (Prana oder Chi). Durch gezielte Arbeit an den Sen-Linien und Akupressurpunkten werden Blockaden gelöst und die Energie wieder ins Gleichgewicht gebracht. Das Ergebnis? Nicht nur der Körper entspannt – auch Geist und Emotionen finden zurück in die Harmonie.  
 
 | Technik          | Werkzeuge                  | Wirkung                                                                 |
