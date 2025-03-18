@@ -83,6 +83,8 @@ Sowohl die Dehnungen als auch die Akupressur werden idealerweise bis an die Schm
 Die Traditionelle Thai-Massage ist eine wohltuende Behandlungsmethode, die sich für Menschen jeden Alters und jeder Erfahrungsstufe eignet. Sie kann helfen, Stress abzubauen und Muskelverspannungen zu lösen, Schmerzen zu lindern und die Beweglichkeit zu verbessern. Daher ist sie sowohl für Anfänger als auch für Fortgeschrittene geeignet, die nach einer wohltuenden Behandlung suchen.  
 Egal ob man einfach nur entspannen möchte, oder von den gesundheitlichen Vorteilen der Thai-Massage profitieren möchte.  
 
+![Frau genießt eine entspannende Thai-Massage und lächelt zufrieden](/img/massage-entspannen.webp "Entspannung pur: Erleben Sie die wohltuende Wirkung einer Thai-Massage")
+
 ### Körperliche Vorteile  
 1. 🌿 **Entgiftung**: Stimuliert Lymphfluss und Ausscheidung von Stoffwechselabfällen.  
 2. 💪 **Schmerzlinderung**: Besonders effektiv bei Rücken- und Nackenverspannungen.  
