@@ -44,6 +44,7 @@ Die erste Sequenz erfolgt normalerweise in Rückenlage und beginnt mit einer aus
 
 Typischerweise findet die traditionelle Thai Massage auf einer Matte am Boden statt. Allerdings ist dies in Deutschland kaum verbreitet, sodass Sie sehr wahrscheinlich eine Massageliege vorfinden werden.  
 
+Sie sind neugierig geworden? Erfahren Sie, wie Sie sich optimal auf Ihre erste Thai-Massage vorbereiten: [So bereitest du dich auf deine erste Thai Massage vor](https://coruscating-kleicha-ad70a8.netlify.app/docs/thai-massage-vorbereitung).
 
 ####Die vier Säulen der Thai-Massage  
 
@@ -101,6 +102,7 @@ Egal ob man einfach nur entspannen möchte, oder von den gesundheitlichen Vortei
 ### Spiritueller Nutzen  
 1. 🌌 **Energetische Reinigung**: Lösen von Blockaden nach traditioneller Thai-Medizin. 
 
+Überzeugt? Hier finden Sie Tipps, um die beste Thai-Massage in Ihrer Nähe zu finden: [5 Tipps, um die Beste Thai Massage zu finden](https://coruscating-kleicha-ad70a8.netlify.app/docs/gute-thai-massage-erkennen).
 
 ## Die Ursprünge der Thai-Massage
 
