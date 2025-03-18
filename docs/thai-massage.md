@@ -9,26 +9,6 @@ image: /img/Traditionelle-Thai-Massage.jpg
 ---
 
 # Traditionelle Thai-Massage
-![Thai-Massage zur Tiefenentspannung](/img/Traditionelle-Thai-Massage.jpg)
-## Die Kunst der Thai-Massage: Eine ganzheitliche Erfahrung für Körper und Geist
-
-Die **Traditionelle Thai-Massage (Nuat Phaen Boran)** – eine über 2500 Jahre alte Heilkunst aus Thailand – vereint Akupressur, yogagleiche Dehnungen und energetische Arbeit zu einem einzigartigen Ritual. Ursprünglich in buddhistischen Tempeln praktiziert, hat sie sich längst weltweit als kraftvolle Methode gegen Stress, Verspannungen und Blockaden bewährt.
-
-<!-- truncate -->
-
-### Die Ursprünge der Thai-Massage
-
-Die Thai-Massage gilt als alte Heilkunst. Der Ursprung entstand vor über 2500 Jahren in Indien. Damals war sie ein Teil der Ayurveda-Medizin, die bis heute in Indien praktiziert wird. Als Erfinder dieser Massage wird Jivaka Kumar Bhacchal, besser bekannt als Dr. Shivago, benannt. Er sei persönlicher Arzt von Buddha und König Bimbisara gewesen. Es wird angenommen, dass die Lehre von Dr. Shivago gleichzeitig mit dem Buddhismus nach Thailand kam und so die Traditionelle Thai-Massage entstand.  
-
-Heutzutage ist die Thai-Massage ein fester Bestandteil der traditionellen thailändischen Medizin und eine beliebte Form der Massage weltweit. Sie kombiniert verschiedene Techniken wie Druckmassagen, Muskelstreckungen und Dehnungen. Dadurch wird Stress abgebaut, Schmerzen gelindert, die Beweglichkeit verbessert und das Immunsystem gestärkt. Die Thai-Massage wird auch als Thai Yoga Massage oder „Nuad Boran Thai“ bezeichnet.  
-
-Bei der Traditionellen Thai-Massage steht der gesamte Körper im Fokus, sowohl Muskeln als auch Gelenke werden bearbeitet. Diese Art von Massage arbeitet mit Energiepunkten im Körper und stimuliert den Energiefluss (10 Hauptenergielinien oder Sen-Linien) des Körpers durch speziell abgestimmte Streckübungen und Dehnungen sowie Akupressurtechniken.  
-
-Dabei liegt man meistens vollständig angekleidet auf einer Matte am Boden und man sitzt teilweise wie im Yoga auf dem Boden. Die Massagetechniken sind sehr sanft aber gleichzeitig effektiv und helfen dabei spürbar Anspannung zu lösen und den Körper ins Gleichgewicht zu bringen.  
-
-Es gibt verschiedene Schulen, welche die traditionelle Thai-Massage unterrichten. Jede hat ihre eigenartige Vorgehensweise in Bezug auf Druckpunkte oder Energiearbeit. Trotzdem teilen alle Schulformen dieselben Grundprinzipien: Stimulation des Energieflusses im Körper, Anregung des Lymphflusses sowie Stimulation des Nervensystems um den Körper ins Gleichgewicht zu bringem und somit Gesundheit herzustellen oder zu erhalten.  
-
-# Traditionelle Thai-Massage
 ![Frau während einer entspannenden Thai-Massage auf einer Matte](/img/Traditionelle-Thai-Massage.jpg)
 ## Die Kunst der Thai-Massage: Ganzheitliche Heilung seit 2500 Jahren
 
@@ -121,6 +101,18 @@ Egal ob man einfach nur entspannen möchte, oder von den gesundheitlichen Vortei
 ### Spiritueller Nutzen  
 1. 🌌 **Energetische Reinigung**: Lösen von Blockaden nach traditioneller Thai-Medizin. 
 
+
+## Die Ursprünge der Thai-Massage
+
+Die Thai-Massage gilt als alte Heilkunst. Der Ursprung entstand vor über 2500 Jahren in Indien. Damals war sie ein Teil der Ayurveda-Medizin, die bis heute in Indien praktiziert wird. Als Erfinder dieser Massage wird Jivaka Kumar Bhacchal, besser bekannt als Dr. Shivago, benannt. Er sei persönlicher Arzt von Buddha und König Bimbisara gewesen. Es wird angenommen, dass die Lehre von Dr. Shivago gleichzeitig mit dem Buddhismus nach Thailand kam und so die Traditionelle Thai-Massage entstand.  
+
+Heutzutage ist die Thai-Massage ein fester Bestandteil der traditionellen thailändischen Medizin und eine beliebte Form der Massage weltweit. Sie kombiniert verschiedene Techniken wie Druckmassagen, Muskelstreckungen und Dehnungen. Dadurch wird Stress abgebaut, Schmerzen gelindert, die Beweglichkeit verbessert und das Immunsystem gestärkt. Die Thai-Massage wird auch als Thai Yoga Massage oder „Nuad Boran Thai“ bezeichnet.  
+
+Bei der Traditionellen Thai-Massage steht der gesamte Körper im Fokus, sowohl Muskeln als auch Gelenke werden bearbeitet. Diese Art von Massage arbeitet mit Energiepunkten im Körper und stimuliert den Energiefluss (10 Hauptenergielinien oder Sen-Linien) des Körpers durch speziell abgestimmte Streckübungen und Dehnungen sowie Akupressurtechniken.  
+
+Dabei liegt man meistens vollständig angekleidet auf einer Matte am Boden und man sitzt teilweise wie im Yoga auf dem Boden. Die Massagetechniken sind sehr sanft aber gleichzeitig effektiv und helfen dabei spürbar Anspannung zu lösen und den Körper ins Gleichgewicht zu bringen.  
+
+Es gibt verschiedene Schulen, welche die traditionelle Thai-Massage unterrichten. Jede hat ihre eigenartige Vorgehensweise in Bezug auf Druckpunkte oder Energiearbeit. Trotzdem teilen alle Schulformen dieselben Grundprinzipien: Stimulation des Energieflusses im Körper, Anregung des Lymphflusses sowie Stimulation des Nervensystems um den Körper ins Gleichgewicht zu bringem und somit Gesundheit herzustellen oder zu erhalten.  
 
 ---
 
