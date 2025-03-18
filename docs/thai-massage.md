@@ -46,18 +46,18 @@ Typischerweise findet die traditionelle Thai Massage auf einer Matte am Boden st
 
 Sie sind neugierig geworden? Erfahren Sie, wie Sie sich optimal auf Ihre erste Thai-Massage vorbereiten: [So bereitest du dich auf deine erste Thai Massage vor](https://coruscating-kleicha-ad70a8.netlify.app/docs/thai-massage-vorbereitung).
 
-####Die vier Säulen der Thai-Massage  
+### Die vier Säulen der Thai-Massage  
 
-### Akupressur:
+#### Akupressur:
 Bei der Akupressur setzt der Thai-Massage-Therapeut gezielten Druck mit Fingern, Handflächen, Ellbogen oder Knien auf bestimmte Körperpunkte ein – ähnlich wie in der Akupunktur, aber ohne Nadeln. Diese Punkte liegen auf den Energielinien (Sen), die laut traditioneller Thai-Medizin den gesamten Körper durchziehen. Durch die Stimulation wird blockierte Energie gelöst und der Körper angeregt, seine eigenen Heilungskräfte zu aktivieren.  
 
-### Dehnungen:
+#### Dehnungen:
 Passive, yogagleiche Dehnungen sind ein Herzstück der Thai-Massage. Der Thai-Massage-Therapeut führt den Körper des Empfängers in sanfte, aber wirkungsvolle Positionen, um Muskeln zu lockern, die Flexibilität zu steigern und Verspannungen zu durchbrechen. Gleichzeitig wird die Durchblutung angeregt – und damit auch der Energiefluss, der für ganzheitliche Balance sorgt.  
 
-### Gelenkmobilisation:
+#### Gelenkmobilisation:
 Hier stehen die Gelenke im Fokus: Durch sanfte Drehungen, Beugungen und Streckungen verbessert der Thai-Massage-Therapeut ihre Beweglichkeit und löst Steifheit. Diese Mobilisation hält die Gelenke geschmeidig, beugt Beschwerden vor und kann sogar Schmerzen im Bewegungsapparat lindern.  
 
-### Energiearbeit:
+#### Energiearbeit:
 Alles dreht sich um den Fluss der Lebensenergie (Prana oder Chi). Durch gezielte Arbeit an den Sen-Linien und Akupressurpunkten werden Blockaden gelöst und die Energie wieder ins Gleichgewicht gebracht. Das Ergebnis? Nicht nur der Körper entspannt – auch Geist und Emotionen finden zurück in die Harmonie.  
 
 | Technik          | Werkzeuge                  | Wirkung                                                                 |
@@ -71,15 +71,16 @@ Alles dreht sich um den Fluss der Lebensenergie (Prana oder Chi). Durch gezielte
 ---
 
 ## Ist eine Thai-Massage schmerzhaft?  
-Ein **„guter Schmerz“** ist gewollt:  
-- ✅ **Ideale Intensität**: Der Therapeut arbeitet bis zur Schmerzgrenze, wo Muskeln „loslassen“ und Heilung ermöglichen.  
-- ❌ **Zu viel Druck**: Führt zu Abwehrspannung – der Effekt verpufft.  
 
 Sowohl die Dehnungen als auch die Akupressur werden idealerweise bis an die Schmerzgrenze ausgeführt, um den gewünschten Effekt zu haben. Ein erfahrener Thai-Massage-Therapeut wird nur bis zum sogenannten „guten Schmerz“ gehen, bei dem sich die Muskulatur des Körpers öffnet, sodass er die Tiefe der Druckpunkte erreichen kann. Nur dann kann der Körper die Heilwirkung zulassen. Diesen Schmerz empfinden Sie normalerweise als angenehm. Geht der Behandler zu weit, geschieht das Gegenteil. Der Körper verschließt sich und die Thai Massage wird als unangenehm schmerzhaft empfunden. Der Effekt ist dann gleich null.  
 
+- ✅ **Ideale Intensität**: Der Therapeut arbeitet bis zur Schmerzgrenze, wo Muskeln „loslassen“ und Heilung ermöglichen.  
+- ❌ **Zu viel Druck**: Führt zu Abwehrspannung – der Effekt verpufft.  
+
+
 ---
 
-## 7 Gründe, warum Sie eine Thai-Massage ausprobieren sollten  
+## 12 Gründe, warum Sie eine Thai-Massage ausprobieren sollten  
 
 Die Traditionelle Thai-Massage ist eine wohltuende Behandlungsmethode, die sich für Menschen jeden Alters und jeder Erfahrungsstufe eignet. Sie kann helfen, Stress abzubauen und Muskelverspannungen zu lösen, Schmerzen zu lindern und die Beweglichkeit zu verbessern. Daher ist sie sowohl für Anfänger als auch für Fortgeschrittene geeignet, die nach einer wohltuenden Behandlung suchen.  
 Egal ob man einfach nur entspannen möchte, oder von den gesundheitlichen Vorteilen der Thai-Massage profitieren möchte.  
@@ -92,15 +93,15 @@ Egal ob man einfach nur entspannen möchte, oder von den gesundheitlichen Vortei
 5. 🚶 **Körperhaltung**: Optimiert die Körperhaltung.  
 
 ### Mentale Vorteile  
-1. 🧠 **Stressabbau**: Senkt Cortisolspiegel nachweislich um 25%.  
-2. 💡 **Klarheit**: Energiefluss fördert kreatives Denken und Problemlösung.  
-3. 🌟 **Selbstbewusstsein**: Körperliches Wohlbefinden stärkt das Selbstbild.  
-4. 🕊️ **Beruhigung**: Beruhigt die Gedanken.  
-5. ⚡ **Innere Energie**: Stärkt die innere Energie.  
-6. 🌊 **Stressreduktion**: Reduziert Stress.  
+6. 🧠 **Stressabbau**: Senkt Cortisolspiegel nachweislich um 25%.  
+7. 💡 **Klarheit**: Energiefluss fördert kreatives Denken und Problemlösung.  
+8. 🌟 **Selbstbewusstsein**: Körperliches Wohlbefinden stärkt das Selbstbild.  
+9. 🕊️ **Beruhigung**: Beruhigt die Gedanken.  
+10. ⚡ **Innere Energie**: Stärkt die innere Energie.  
+11. 🌊 **Stressreduktion**: Reduziert Stress.  
 
 ### Spiritueller Nutzen  
-1. 🌌 **Energetische Reinigung**: Lösen von Blockaden nach traditioneller Thai-Medizin. 
+12. 🌌 **Energetische Reinigung**: Lösen von Blockaden nach traditioneller Thai-Medizin. 
 
 Überzeugt? Hier finden Sie Tipps, um die beste Thai-Massage in Ihrer Nähe zu finden: [5 Tipps, um die Beste Thai Massage zu finden](https://coruscating-kleicha-ad70a8.netlify.app/docs/gute-thai-massage-erkennen).
 
