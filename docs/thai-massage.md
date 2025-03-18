@@ -109,6 +109,8 @@ Die Thai-Massage gilt als alte Heilkunst. Der Ursprung entstand vor über 2500 J
 
 Heutzutage ist die Thai-Massage ein fester Bestandteil der traditionellen thailändischen Medizin und eine beliebte Form der Massage weltweit. 🌏  
 
+![Geschichte der Thai-Massage: Traditionelle Heilkunst aus Thailand](/img/geschichte-thai.webp "Entdecken Sie die Geschichte der Thai-Massage")
+
 ---
 
 ## FAQ: Häufige Fragen zur Thai-Massage  
