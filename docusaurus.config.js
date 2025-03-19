@@ -98,7 +98,7 @@ const config = {
           },
 */        ],
       },
-      footer: {
+/*      footer: {
         style: 'dark',
         links: [
           {
@@ -127,7 +127,7 @@ const config = {
               },
             ],
           },
-/*          {
+          {
             title: 'More',
             items: [
               {
