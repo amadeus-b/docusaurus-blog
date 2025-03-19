@@ -98,9 +98,9 @@ const config = {
           },
 */        ],
       },
-/*      footer: {
+      footer: {
         style: 'dark',
-        links: [
+/*        links: [
           {
             title: 'Docs',
             items: [
@@ -140,7 +140,7 @@ const config = {
               },
             ],
           },
-*/        ],
+        ],*/
         copyright: `Copyright © ${new Date().getFullYear()} Thai-Massage.de - Blog`,
       },
       prism: {
