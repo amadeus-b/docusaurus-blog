@@ -50,7 +50,7 @@ function Feature({Svg, title, description}) {
 }
 
 export default function HomepageFeatures() {
-  return (
+  return null; /*(
     <section className={styles.features}>
       <div className="container">
         <div className="row">
@@ -60,5 +60,5 @@ export default function HomepageFeatures() {
         </div>
       </div>
     </section>
-  );
+  );*/
 }
