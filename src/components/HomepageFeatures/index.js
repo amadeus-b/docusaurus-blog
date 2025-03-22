@@ -28,7 +28,7 @@ function Feature({Webp, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Webp className={styles.featureWebp} role="img" />
+        <img src={Webp} className={styles.featureWebp} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
