@@ -33,12 +33,7 @@
 @media (max-width: 996px) {
   .theme-doc-toc-mobile {
     position: sticky;
-    top: 0;
+    top: 60;
     z-index: 1000;
-    background-color: var(--ifm-background-color); /* Hintergrundfarbe anpassen */
-    padding: 1rem;
-    border-bottom: 1px solid var(--ifm-toc-border-color); /* Optional: Rand hinzufügen */
-    max-height: 80vh; /* Maximale Höhe festlegen */
-    overflow-y: auto; /* Scrollen ermöglichen, falls der Inhalt zu lang ist */
   }
 }
