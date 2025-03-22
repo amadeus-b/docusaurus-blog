@@ -16,20 +16,6 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/thai-massage">
-            Zum Blog
-          </Link>
-        <a
-          className="button button--secondary button--lg"
-          href="https://thai-massage.de"
-          target="_blank"
-        >
-        Zur Hauptseite
-        </a>
-        </div>
       </div>
     </header>
   );
