@@ -33,7 +33,8 @@
 @media (max-width: 996px) {
   .theme-doc-toc-mobile {
     position: sticky;
-    top: 60;
+    top: 60 px;
     z-index: 1000;
+    overflow-y: auto;
   }
 }
