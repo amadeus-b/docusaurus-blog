@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
 {
   title: 'Blog rund um Thai Massage',
-  Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+  Webp: require('@site/static/img/verzeichnis.webp').default,
   description: (
     <>
       Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -24,7 +24,7 @@ const FeatureList = [
 },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Webp, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
