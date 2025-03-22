@@ -142,7 +142,7 @@ const config = {
             ],
           },
         ],*/
-        copyright: `Copyright © ${new Date().getFullYear()} Thai-Massage.de - Blog`.  <a href="https://thai-massage.de/impressum" target="_blank" rel="noopener noreferrer">Impressum</a>`,
+        copyright: `Copyright © ${new Date().getFullYear()} Thai-Massage.de - Blog`,
         
       },
       prism: {
