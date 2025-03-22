@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 slug: oel-massage
 title: Öl-Massage & Aromaöl-Massage
 description: Erlebe tiefe Entspannung durch die Synergie von Massagekunst und ätherischen Ölen – Heilung für Körper, Geist und Sinne.
