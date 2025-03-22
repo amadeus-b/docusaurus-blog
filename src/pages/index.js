@@ -24,7 +24,7 @@ function HomepageHeader() {
           </Link>
         <a
           className="button button--secondary button--lg"
-          href="https:/thai-massage.de"
+          href="https://thai-massage.de"
           target="_blank"
         >
         Zur Hauptseite
