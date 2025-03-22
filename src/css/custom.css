@@ -30,7 +30,7 @@
 }
 
 @media (max-width: 996px) { /* Breakpoint für Mobilgeräte */
-  .tocCollapsible {
+  .tocMobile {
     position: sticky;
     top: 0;
     background: white;
