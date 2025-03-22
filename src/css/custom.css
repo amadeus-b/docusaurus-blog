@@ -33,7 +33,8 @@
   .theme-doc-toc-mobile {
     position: sticky;
     top: 60px;
-    background-color: #3f3f3f;
+    color: #ff0000;
+    background-color: #eaeaea;
     overflow-y: auto; /* Scrollen ermöglichen, falls der Inhalt zu lang ist */
   }
 }
