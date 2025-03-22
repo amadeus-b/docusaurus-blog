@@ -3,26 +3,26 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
+{
+  title: 'Blog rund um Thai Massage',
+  Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+  description: (
+    <>
+      Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
+      ahead and move your docs into the <code>docs</code> directory.
+      <div style={{ marginTop: '1rem' }}>
+        <a
+          className="button button--secondary button--lg"
+          href="https://thai-massage.de"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Zur Hauptseite
+        </a>
+      </div>
+    </>
+  ),
+}
   {
     title: 'Powered by React',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
@@ -50,7 +50,7 @@ function Feature({Svg, title, description}) {
 }
 
 export default function HomepageFeatures() {
-  return null; /*(
+  return (
     <section className={styles.features}>
       <div className="container">
         <div className="row">
@@ -60,5 +60,5 @@ export default function HomepageFeatures() {
         </div>
       </div>
     </section>
-  );*/
+  );
 }
