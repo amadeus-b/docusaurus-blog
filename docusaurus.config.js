@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Thai-Massage.de - Blog',
-  tagline: 'Alles rund um Thai-Massage',
+  tagline: 'Alles rund um das Thema "Traditionelle Thai-Massage"',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
