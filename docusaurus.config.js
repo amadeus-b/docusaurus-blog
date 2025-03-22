@@ -41,6 +41,9 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        theme: {
+          customCss: './src/css/custom.css',
+        },
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
@@ -66,9 +69,6 @@ const config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         }, **/
-        theme: {
-          customCss: './src/css/custom.css',
-        },
       }),
     ],
   ],
