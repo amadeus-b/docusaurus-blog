@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 slug: thai-massage-vorbereitung
 title: Vorbereitung zur Thai-Massage
 description: Beachte folgende Tipps vor dem Besuch einer Thai-Massage
