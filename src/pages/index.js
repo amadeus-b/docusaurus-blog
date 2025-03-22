@@ -22,13 +22,13 @@ function HomepageHeader() {
             to="/thai-massage">
             Zum Blog
           </Link>
-      <a
-        className="button button--secondary button--lg"
-        href="https:/thai-massage.de"
-        target="_blank"
-      >
+        <a
+          className="button button--secondary button--lg"
+          href="https:/thai-massage.de"
+          target="_blank"
+        >
         Zur Hauptseite
-      </a>
+        </a>
         </div>
       </div>
     </header>
