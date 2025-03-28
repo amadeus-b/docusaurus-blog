@@ -75,6 +75,16 @@ const config = {
     ],
   ],
 
+  plugins: [
+      [
+        require.resolve("@cmfcmf/docusaurus-search-local"),
+        {
+        hashed: true,
+      language: ["en", "de", "th"], // Beispiel für Sprachen
+    },
+  ],
+],
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
