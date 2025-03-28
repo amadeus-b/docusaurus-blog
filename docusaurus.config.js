@@ -80,7 +80,7 @@ const config = {
         require.resolve("@cmfcmf/docusaurus-search-local"),
         {
         hashed: true,
-      language: ["en", "de", "th"], // Beispiel für Sprachen
+      language: "de", // Beispiel für Sprachen
     },
   ],
 ],
