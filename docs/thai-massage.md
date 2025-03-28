@@ -5,7 +5,7 @@ title: Traditionelle Thai-Massage
 description: Entdecke die heilende Kraft der Thai-Massage - Ganzheitliche Entspannung durch Akupressur, Dehnungen und Energiearbeit.
 tags: [Thai-Massage]
 image: /img/Traditionelle-Thai-Massage.jpg
-last_update: 2024-03-28
+last_update: 3/17/2025
 ---
 
 # Traditionelle Thai-Massage
