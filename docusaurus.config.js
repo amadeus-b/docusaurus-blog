@@ -79,6 +79,7 @@ const config = {
       [
         require.resolve("@cmfcmf/docusaurus-search-local"),
         {
+        indexBlog: false,
         language: "de", // Beispiel für Sprachen
     },
   ],
