@@ -36,6 +36,16 @@ const config = {
     locales: ['de'],
   },
 
+    plugins: [
+      [
+        require.resolve("@cmfcmf/docusaurus-search-local"),
+        {
+        indexBlog: false,
+        language: "de", // Beispiel für Sprachen
+    },
+  ],
+],
+  
   
   presets: [
     [
@@ -75,16 +85,7 @@ const config = {
     ],
   ],
 
-  plugins: [
-      [
-        require.resolve("@cmfcmf/docusaurus-search-local"),
-        {
-        indexBlog: false,
-        language: "de", // Beispiel für Sprachen
-    },
-  ],
-],
-  
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
