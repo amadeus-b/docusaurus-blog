@@ -125,13 +125,9 @@ const config = {
                 label: 'Discord',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
             ],
           },
-          {
+          /*{
             title: 'More',
             items: [
               {
@@ -143,7 +139,7 @@ const config = {
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
-          },
+          },*/
         ],
       },
       prism: {
