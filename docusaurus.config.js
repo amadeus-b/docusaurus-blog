@@ -80,13 +80,7 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
-      navbar: {
-        title: 'Thai-Massage.de',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
-        announcementBar: {
+      announcementBar: {
           id: 'support_us',
           content:
               'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
@@ -94,6 +88,12 @@ const config = {
           textColor: '#091E42',
           isCloseable: false,
     },
+      navbar: {
+        title: 'Thai-Massage.de',
+        logo: {
+          alt: 'My Site Logo',
+          src: 'img/logo.svg',
+        },
         items: [
           {
             type: 'docSidebar',
