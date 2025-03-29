@@ -101,11 +101,33 @@ const config = {
           },
 */        ],
       },
+      
       footer: {
         style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} Thai-Massage.de - Blog`,
-        links: [
-          /*{
+            links: [
+      {
+        label: 'Stack Overflow',
+        href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+      },
+      {
+        label: 'Discord',
+        href: 'https://discordapp.com/invite/docusaurus',
+      },
+      {
+        label: 'X',
+        href: 'https://x.com/docusaurus',
+      },
+      {
+        html: `
+            <a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+              <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" width="114" height="51" />
+            </a>
+          `,
+      },
+    ],
+        /*links: [
+          {
             title: 'Docs',
             items: [
               {
@@ -113,11 +135,11 @@ const config = {
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
             ],
-          },*/
+          },
           {
             /*title: 'Community',
             items: [
-              {*/
+              {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
@@ -127,7 +149,7 @@ const config = {
               },
             ],
           },
-          /*{
+          {
             title: 'More',
             items: [
               {
@@ -139,8 +161,8 @@ const config = {
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
-          },*/
-        ],
+          },
+        ],*/
       },
       prism: {
         theme: prismThemes.github,
