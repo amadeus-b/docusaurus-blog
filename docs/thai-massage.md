@@ -110,7 +110,7 @@ Egal ob man einfach nur entspannen möchte, oder von den gesundheitlichen Vortei
 
 ## Die Ursprünge der Thai-Massage
 
-Die Thai-Massage gilt als alte Heilkunst. Der Ursprung entstand vor über 2500 Jahren in Indien. Damals war sie ein Teil der Ayurveda-Medizin, die bis heute in Indien praktiziert wird. Als Erfinder dieser Massage wird Jivaka Kumar Bhacchal, besser bekannt als Dr. Shivago, benannt. Er sei persönlicher Arzt von Buddha und König Bimbisara gewesen. Es wird angenommen, dass die Lehre von Dr. Shivago 👨‍⚕️ gleichzeitig mit dem Buddhismus nach Thailand kam und so die Traditionelle Thai-Massage entstand.  
+Die Thai-Massage gilt als alte Heilkunst. Der Ursprung entstand vor über 2500 Jahren in Indien. Damals war sie ein Teil der Ayurveda-Medizin, die bis heute in Indien praktiziert wird. Als Erfinder dieser Massage wird Jivaka Kumar Bhacchal, besser bekannt als Dr. Shivago, benannt. Er sei persönlicher Arzt von Buddha und König Bimbisara gewesen. Es wird angenommen, dass die Lehre von Dr. Shivago gleichzeitig mit dem Buddhismus nach Thailand kam und so die Traditionelle Thai-Massage entstand.  
 
 Heutzutage ist die Thai-Massage ein fester Bestandteil der traditionellen thailändischen Medizin und eine beliebte Form der Massage weltweit. 🌏  
 
