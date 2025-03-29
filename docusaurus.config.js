@@ -107,62 +107,14 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Thai-Massage.de - Blog`,
             links: [
       {
-        label: 'Stack Overflow',
-        href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+        label: 'Datenschutz',
+        href: 'https://thai-massage.de/datenschutz',
       },
       {
-        label: 'Discord',
-        href: 'https://discordapp.com/invite/docusaurus',
-      },
-      {
-        label: 'X',
-        href: 'https://x.com/docusaurus',
-      },
-      {
-        html: `
-            <a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
-              <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" width="114" height="51" />
-            </a>
-          `,
+        label: 'Impressum',
+        href: 'https://thai-massage.de/impressum',
       },
     ],
-        /*links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-            ],
-          },
-          {
-            /*title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],*/
       },
       prism: {
         theme: prismThemes.github,
