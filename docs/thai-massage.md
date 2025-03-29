@@ -28,9 +28,9 @@ Die Thai-Massage ist eine **aktive Behandlungsform** – kein passives Entspanne
 
 Der Thai-Massage-Therapeut arbeitet in der Regel mit Hand, Unterarm, Ellenbogen, Knie und Füße. Es kann auch notwendig sein, dass der Thai-Massage-Therapeut sein Körpergewicht einsetzt, um bestimmte Bereiche intensiver zu massieren.  
 
-Die positiven Auswirkungen dieser Massagetechnik haben sich weltweit bewiesen: In Thailand 🇹🇭 gibt es Hunderte von Tempeln mit professionell ausgebildetem Personal für diese Art von Meditationstechniken 🧘‍♀️ und traditioneller Heilkunde – weltweit findet man dieses Wissen nach wie vor in lebendiger Tradition vor!  
+Die positiven Auswirkungen dieser Massagetechnik haben sich weltweit bewiesen: In Thailand 🇹🇭 gibt es Hunderte von Tempeln mit professionell ausgebildetem Personal für diese Art von Meditationstechniken und traditioneller Heilkunde – weltweit findet man dieses Wissen nach wie vor in lebendiger Tradition vor!  
 
-🎯 Ziel ist es, Stress abzubauen 🌿, Schmerzen zu lindern 💆‍♀️, die Beweglichkeit zu verbessern 🤸‍♀️ und das Immunsystem zu stärken 💪.  
+🎯 Ziel ist es, Stress abzubauen, Schmerzen zu lindern, die Beweglichkeit zu verbessern und das Immunsystem zu stärken.  
 
 :::tip[Wussten Sie schon?]  
 Die Thai-Massage wird auch „passives Yoga“ genannt: Der Therapeut bewegt Ihren Körper in Positionen, die an Asanas erinnern.  
@@ -49,16 +49,16 @@ Sie sind neugierig geworden? Erfahren Sie, wie Sie sich optimal auf Ihre erste T
 
 ### Die vier Säulen der Thai-Massage  
 
-#### Akupressur 👐
+#### Akupressur
 Bei der Akupressur setzt der Thai-Massage-Therapeut gezielten Druck mit Fingern, Handflächen, Ellbogen oder Knien auf bestimmte Körperpunkte ein – ähnlich wie in der Akupunktur, aber ohne Nadeln. Diese Punkte liegen auf den Energielinien (Sen), die laut traditioneller Thai-Medizin den gesamten Körper durchziehen. Durch die Stimulation wird blockierte Energie gelöst und der Körper angeregt, seine eigenen Heilungskräfte zu aktivieren.  
 
-#### Dehnungen 🤸‍♂️
+#### Dehnungen
 Passive, yogagleiche Dehnungen sind ein Herzstück der Thai-Massage. Der Thai-Massage-Therapeut führt den Körper des Empfängers in sanfte, aber wirkungsvolle Positionen, um Muskeln zu lockern, die Flexibilität zu steigern und Verspannungen zu durchbrechen. Gleichzeitig wird die Durchblutung angeregt – und damit auch der Energiefluss, der für ganzheitliche Balance sorgt.  
 
-#### Gelenkmobilisation 🦵
+#### Gelenkmobilisation
 Hier stehen die Gelenke im Fokus: Durch sanfte Drehungen, Beugungen und Streckungen verbessert der Thai-Massage-Therapeut ihre Beweglichkeit und löst Steifheit. Diese Mobilisation hält die Gelenke geschmeidig, beugt Beschwerden vor und kann sogar Schmerzen im Bewegungsapparat lindern.  
 
-#### Energiearbeit 💫
+#### Energiearbeit
 Alles dreht sich um den Fluss der Lebensenergie (Prana oder Chi). Durch gezielte Arbeit an den Sen-Linien und Akupressurpunkten werden Blockaden gelöst und die Energie wieder ins Gleichgewicht gebracht. Das Ergebnis? Nicht nur der Körper entspannt – auch Geist und Emotionen finden zurück in die Harmonie.  
 
 | Technik          | Werkzeuge                  | Wirkung                                                                 |
@@ -89,22 +89,22 @@ Egal ob man einfach nur entspannen möchte, oder von den gesundheitlichen Vortei
 ![Frau genießt eine entspannende Thai-Massage und lächelt zufrieden](/img/massage-entspannen.webp "Entspannung pur: Erleben Sie die wohltuende Wirkung einer Thai-Massage")
 
 ### Körperliche Vorteile  
-1. 🌿 **Entgiftung**: Stimuliert Lymphfluss und Ausscheidung von Stoffwechselabfällen.  
-2. 💪 **Schmerzlinderung**: Besonders effektiv bei Rücken- und Nackenverspannungen.  
-3. 🧘 **Beweglichkeit**: Verbessert die Beweglichkeit durch Mobilisation.  
-4. 🩸 **Durchblutung**: Fördert die Durchblutung.  
-5. 🚶 **Körperhaltung**: Optimiert die Körperhaltung.  
+1. **Entgiftung**: Stimuliert Lymphfluss und Ausscheidung von Stoffwechselabfällen.  
+2. **Schmerzlinderung**: Besonders effektiv bei Rücken- und Nackenverspannungen.  
+3. **Beweglichkeit**: Verbessert die Beweglichkeit durch Mobilisation.  
+4. **Durchblutung**: Fördert die Durchblutung.  
+5. **Körperhaltung**: Optimiert die Körperhaltung.  
 
 ### Mentale Vorteile  
-6. 🧠 **Stressabbau**: Senkt Cortisolspiegel nachweislich um 25%.  
-7. 💡 **Klarheit**: Energiefluss fördert kreatives Denken und Problemlösung.  
-8. 🌟 **Selbstbewusstsein**: Körperliches Wohlbefinden stärkt das Selbstbild.  
-9. 🕊️ **Beruhigung**: Beruhigt die Gedanken.  
-10. ⚡ **Innere Energie**: Stärkt die innere Energie.  
-11. 🌊 **Stressreduktion**: Reduziert Stress.  
+6. **Stressabbau**: Senkt Cortisolspiegel nachweislich um 25%.  
+7. **Klarheit**: Energiefluss fördert kreatives Denken und Problemlösung.  
+8. **Selbstbewusstsein**: Körperliches Wohlbefinden stärkt das Selbstbild.  
+9. **Beruhigung**: Beruhigt die Gedanken.  
+10. **Innere Energie**: Stärkt die innere Energie.  
+11. **Stressreduktion**: Reduziert Stress.  
 
 ### Spiritueller Nutzen  
-12. 🌌 **Energetische Reinigung**: Lösen von Blockaden nach traditioneller Thai-Medizin. 
+12. **Energetische Reinigung**: Lösen von Blockaden nach traditioneller Thai-Medizin. 
 
 Überzeugt? Hier finden Sie Tipps, um die beste Thai-Massage in Ihrer Nähe zu finden: [5 Tipps, um die Beste Thai Massage zu finden](https://coruscating-kleicha-ad70a8.netlify.app/docs/gute-thai-massage-erkennen).
 
@@ -143,11 +143,6 @@ Es gibt bestimmte medizinische Bedingungen bzw. Erkrankungen, bei denen keine Th
 - Thrombose oder Rheuma
 - Fortgeschrittene Osteoporose
 :::
-
-:::faq[Welche Vorteile bietet die Traditionelle Thai-Massage?]
-Die Traditionelle Thai-Massage hat viele Vorteile, einschließlich der Verbesserung der Durchblutung und der Lösung von Verspannungen. Sie kann Stress abbauen, Schmerzen lindern, die Beweglichkeit verbessern und das Immunsystem stärken. Darüber hinaus hat sie auch eine psychologische Wirkung auf den Empfänger, indem sie Stress abbaut und eine tiefe Entspannung ermöglicht.
-:::
-
 
 ---
 
