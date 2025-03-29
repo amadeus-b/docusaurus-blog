@@ -115,9 +115,9 @@ const config = {
             ],
           },*/
           {
-            title: 'Community',
+            /*title: 'Community',
             items: [
-              {
+              {*/
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
