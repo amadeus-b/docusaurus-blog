@@ -25,9 +25,3 @@
   --ifm-color-primary-lighter: #00b019;
   --ifm-color-primary-lightest: #00c71d;
 }
-
-.announcementBar_mb4j {
-  position: sticky;
-  top: 0; /* Fixiert die Bar am oberen Rand */
-  z-index: 9999; /* Optional, stellt sicher, dass die Bar über anderen Elementen liegt */
-}
