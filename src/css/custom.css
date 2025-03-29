@@ -26,6 +26,10 @@
   --ifm-color-primary-lightest: #00c71d;
 }
 
+.announcementBar {
+  position: sticky;
+}
+
 @media (max-width: 996px) {
   .theme-doc-toc-mobile {
     position: sticky;
