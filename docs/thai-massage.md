@@ -144,6 +144,39 @@ Es gibt bestimmte medizinische Bedingungen bzw. Erkrankungen, bei denen keine Th
 - Fortgeschrittene Osteoporose
 :::
 
+:::faq[Häufige Fragen zur Thai-Massage]
+
+## Welche Vorteile bietet die Traditionelle Thai-Massage?
+
+Die Traditionelle Thai-Massage hat viele Vorteile, einschließlich der Verbesserung der Durchblutung und der Lösung von Verspannungen. Sie kann Stress abbauen, Schmerzen lindern, die Beweglichkeit verbessern und das Immunsystem stärken. Darüber hinaus hat sie auch eine psychologische Wirkung auf den Empfänger, indem sie Stress abbaut und eine tiefe Entspannung ermöglicht.
+
+---
+
+## Wie lange dauert eine Sitzung der Traditionellen Thai-Massage?
+
+Die Dauer einer Sitzung der Thaimassage hängt von Ihren Bedürfnissen und Zielen ab. In der Regel liegt die Dauer zwischen 60 Minuten bis zu 2 Stunden.
+
+---
+
+## Wann sollte man nicht die Thai-Massage anwenden?
+
+Es gibt bestimmte medizinische Bedingungen bzw. Erkrankungen, bei denen keine Thai-Massage empfohlen wird oder sogar gefährlich sein kann. Bei diesen gesundheitlichen Beschwerden empfehlen wir Rücksprache mit Ihrem Arzt:
+
+:::warning[Achtung bei diesen Kontraindikationen]  
+- Blutgerinnsel  
+- Chronische Erkrankungen  
+- Herzkrankheiten  
+- Krampfadern  
+- Hauterkrankungen  
+- Immunschwäche  
+- Akute Infektion  
+- Thrombose oder Rheuma  
+- Fortgeschrittene Osteoporose  
+:::
+
+:::
+
+
 ---
 
 ## Fazit  
