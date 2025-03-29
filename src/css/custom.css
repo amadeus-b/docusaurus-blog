@@ -29,7 +29,7 @@
 .announcementBar {
   position: sticky;
   top: 0; /* Fixiert die Bar am oberen Rand */
-  z-index: 1000; /* Optional, stellt sicher, dass die Bar über anderen Elementen liegt */
+  z-index: 9999; /* Optional, stellt sicher, dass die Bar über anderen Elementen liegt */
 }
 
 
