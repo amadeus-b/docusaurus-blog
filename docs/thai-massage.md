@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: thai-massage
+slug: /
 title: Traditionelle Thai-Massage
 description: Entdecke die heilende Kraft der Thai-Massage - Ganzheitliche Entspannung durch Akupressur, Dehnungen und Energiearbeit.
 tags: [Thai-Massage]
