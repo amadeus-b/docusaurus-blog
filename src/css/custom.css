@@ -25,18 +25,3 @@
   --ifm-color-primary-lighter: #00b019;
   --ifm-color-primary-lightest: #00c71d;
 }
-
-.announcementBar {
-  position: sticky;
-  top: 0; /* Fixiert die Bar am oberen Rand */
-  z-index: 9999; /* Optional, stellt sicher, dass die Bar über anderen Elementen liegt */
-}
-
-
-@media (max-width: 996px) {
-  .theme-doc-toc-mobile {
-    position: sticky;
-    top: 60px;
-    overflow-y: auto; /* Scrollen ermöglichen, falls der Inhalt zu lang ist */
-  }
-}
