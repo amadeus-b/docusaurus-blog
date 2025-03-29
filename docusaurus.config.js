@@ -81,11 +81,11 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       announcementBar: {
-          id: 'support_us',
+          id: 'massage_finden',
           content:
-              'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
-          backgroundColor: '#fafbfc',
-          textColor: '#091E42',
+              'Finden Sie Ihre Thai-Massage in unserem großen <a target="_blank" rel="noopener noreferrer" href="https://thai-massage.de">Massage-Verzeichnis</a>',
+          backgroundColor: '#009916',
+          textColor: '#FFFFFF',
           isCloseable: false,
     },
       navbar: {
