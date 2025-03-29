@@ -83,7 +83,7 @@ const config = {
       announcementBar: {
           id: 'massage_finden',
           content:
-              'Finden Sie Ihre Thai-Massage in unserem großen<br><a target="_blank" rel="noopener noreferrer" href="https://thai-massage.de">Massage-Verzeichnis</a>',
+              'Finden Sie Ihre Thai-Massage in unserem großen <a target="_blank" rel="noopener noreferrer" href="https://thai-massage.de">Massage-Verzeichnis</a>',
           backgroundColor: '#009916',
           textColor: '#FFFFFF',
           isCloseable: false,
