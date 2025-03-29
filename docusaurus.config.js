@@ -105,7 +105,7 @@ const config = {
         style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} Thai-Massage.de - Blog`,
         links: [
-          {
+          /*{
             title: 'Docs',
             items: [
               {
@@ -113,7 +113,7 @@ const config = {
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
             ],
-          },
+          },*/
           {
             title: 'Community',
             items: [
