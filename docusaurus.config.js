@@ -103,7 +103,8 @@ const config = {
       },
       footer: {
         style: 'dark',
-/*        links: [
+        copyright: `Copyright © ${new Date().getFullYear()} Thai-Massage.de - Blog`,
+        links: [
           {
             title: 'Docs',
             items: [
@@ -143,9 +144,7 @@ const config = {
               },
             ],
           },
-        ],*/
-        copyright: `Copyright © ${new Date().getFullYear()} Thai-Massage.de - Blog`,
-        
+        ],
       },
       prism: {
         theme: prismThemes.github,
